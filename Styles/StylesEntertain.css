@@ -1,0 +1,11 @@
+body {
+    background-image: url("http://www.magic4walls.com/wp-content/uploads/2014/04/CD-classic-dream-hd-wallpaper-photovintage-record-vinyl.jpg");
+    text-align:center;
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+

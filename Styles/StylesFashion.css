@@ -1,0 +1,10 @@
+body {
+    background-image: url("http://fashiontrend.yuniarwijananto.com/wp-content/uploads/2015/06/fashion-girl-tumblr-pictures.jpg");
+    text-align:center;
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
